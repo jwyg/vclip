@@ -9,7 +9,7 @@ readme = "README.md"
 keywords = ["video"]
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.8,<4.0"
 moviepy = "^1.0.3"
 
 
