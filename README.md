@@ -2,6 +2,8 @@
 
 a small tool to compile randomly selected video clips from a folder of videos.
 
+![](vclip.gif)
+
 ## example
 
 for an example output of 100 randomly selected 1 second video clips see: https://vimeo.com/1001612646
